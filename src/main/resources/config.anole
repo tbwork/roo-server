@@ -1,0 +1,8 @@
+#env:all
+## server work loop thread count
+roo.server.worker.count=10
+roo.server.execute.thread.pool.size.core=10
+roo.server.execute.thread.pool.size.max=50
+roo.server.execute.thread.pool.keepalive.time=300000
+roo.server.execute.thread.pool.queue.size=100
+
